@@ -1,0 +1,14 @@
+.gradientbg{
+
+    height: 120vh;
+    width: 200vh;
+    background: rgb(34,193,195);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(122,40,194,0.34226190476190477) 97%, rgba(41,194,69,0.16299019607843135) 100%);
+    z-index: -10;
+}
+
+.container{
+
+    width: 100vh;
+    height: 100vh;
+}
